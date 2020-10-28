@@ -10,4 +10,3 @@ data class Neighbor(
     val favorite: Boolean,
     val webSite: String
 )
-

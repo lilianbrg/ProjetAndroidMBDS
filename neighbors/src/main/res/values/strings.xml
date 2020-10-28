@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">neighbors</string>
+    <string name="hint_address">Adresse</string>
+    <string name="tool_list_fragment">Liste de voisins</string>
+    <string name="tool_add_fragment">Ajouter un Voisin</string>
+    <string name="hint_image">Image</string>
+    <string name="hint_name">Nom</string>
+    <string name="hint_website">Site Web</string>
+    <string name="hint_phone">Telephone</string>
+    <string name="hint_aboutme">A propos..</string>
 </resources>
